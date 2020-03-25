@@ -19,6 +19,5 @@ Deste modo, sempre trabalhei com grande volume de dados, atendando-me a outliers
 ## Projetos:
 
 * [**Dissertação Mestrado**](https://www.teses.usp.br/teses/disponiveis/14/14132/tde-04062018-174950/publico/Dissertacao_Mestrado_Denis_Barbosa.pdf)
-* [**Análise de dados Airbnb - Oslo**] (https://github.com/deklismam/portfolio_datascience/blob/master/Análise_de_dados_Airbnb_Oslo.ipynb)
-
+* **Análise de dados Airbnb - Oslo**: https://bit.ly/2Jdqzi6 
 ---
